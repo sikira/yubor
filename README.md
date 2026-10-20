@@ -2,7 +2,11 @@
 
 Android aplikacija za pregled kamera na graničnim prelazima.
 
-[Preuzmi najnoviji APK](https://github.com/sikira/yubor/raw/refs/heads/main/dist/latest/YuBor.apk)
+[Preuzmi najnoviji APK](https://github.com/sikira/yubor/releases/latest/download/YuBor.apk)
+
+Starija izdanja dostupna su na stranici [GitHub Releases](https://github.com/sikira/yubor/releases).
+Direktni link na najnoviji APK iz repozitorija ostaje dostupan
+[ovdje](https://github.com/sikira/yubor/raw/refs/heads/main/dist/latest/YuBor.apk).
 
 Nakon preuzimanja otvori APK i potvrdi instalaciju. Android 6.0 ili noviji.
 
