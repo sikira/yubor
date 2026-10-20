@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "releaseNotes": "YuBor 1.0",
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0",
-  "apkUrl": "https://github.com/sikira/yubor/raw/refs/heads/main/dist/v1.0/YuBor.apk"
+  "releaseNotes": "YuBor 1.1",
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "apkUrl": "https://github.com/sikira/yubor/raw/refs/heads/main/dist/v1.1/YuBor.apk"
 }
