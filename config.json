@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "releaseNotes": "YuBor 1.2",
-  "latestVersionCode": 3,
-  "latestVersionName": "1.2",
-  "apkUrl": "https://github.com/sikira/yubor/raw/refs/heads/main/dist/v1.2/YuBor.apk",
+  "releaseNotes": "YuBor 1.3",
+  "latestVersionCode": 4,
+  "latestVersionName": "1.3",
+  "apkUrl": "https://github.com/sikira/yubor/raw/refs/heads/main/dist/v1.3/YuBor.apk",
   "cameraCatalogVersion": 1,
   "cameraCatalogUrl": "https://raw.githubusercontent.com/sikira/yubor/main/camera-catalog.dat",
   "cameraCatalogSha256": "70ad61897b18767b2d73cd7b8c8600c57e4c05273ff04ab41b32ead7952c36ee",
